@@ -23,3 +23,4 @@ wsprintfW(CmdLine, OBFW(L"cmd.exe /c C:\\Windows\\System32\\wbem\\WMIC.exe shado
 ## Conti ransomware code video review
 Great malware reviews by Rad9800
 https://youtu.be/SGbhqwXB-GU?si=ufk1UwYrmS-cOxJ2
+- DeleteShadowCopies() function at 1h47mn
