@@ -1,4 +1,4 @@
-# Revisiting of Conti shadow copies deletion 
+# Revisiting Conti shadow copies deletion 
 After viewing a Conti ransomware code video explanation, I was wondering why ransomware group were still using cmd process to perform the actual deletion of shadow copies as it is easily detect by EDR or AV solutions via command line arguments.
 So I wanted to know if it was possible to implement it in actual C++ and this Microsoft repository : https://github.com/microsoft/Windows-classic-samples (from which I largely took the code) shew me that yes, and this solution seems higly easier to write in comparison to their.
 Ransomware devs don't look creative.
