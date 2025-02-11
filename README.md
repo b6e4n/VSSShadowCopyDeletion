@@ -22,4 +22,4 @@ wsprintfW(CmdLine, OBFW(L"cmd.exe /c C:\\Windows\\System32\\wbem\\WMIC.exe shado
 
 ## Conti ransomware code video review
 Interesting malware reviews by Rad9800
-https://youtu.be/SGbhqwXB-GU?si=6f3PjTb3sBRa4kLI
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SGbhqwXB-GU?si=6f3PjTb3sBRa4kLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
